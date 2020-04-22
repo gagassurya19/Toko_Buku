@@ -3,17 +3,12 @@
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-## Table of Contents (Optional)
+## How To Install
 
-> If your `README` has a lot of info, section headers might be nice.
+1. Upload Database [toko_buku](https://github.com/gagassurya19/Toko_Buku/blob/master/SQL/toko_buku.sql) on your database
+2. pull this repository to your file server
+3. Done.
 
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
+> Thank you
 
 ---
