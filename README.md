@@ -9,6 +9,11 @@
 2. pull this repository to your file server
 3. Done.
 
+![tokobuku](https://github.com/gagassurya19/Toko_Buku/blob/master/SQL/1.png)
+![tokobuku](https://github.com/gagassurya19/Toko_Buku/blob/master/SQL/2.png)
+![tokobuku](https://github.com/gagassurya19/Toko_Buku/blob/master/SQL/3.png)
+![tokobuku](https://github.com/gagassurya19/Toko_Buku/blob/master/SQL/4.png)
+
 > Thank you
 
 ---
